@@ -8,6 +8,7 @@ Uses the CIFAR-10 dataset for image classification
 
 - Python 3.x with numpy and matplotlib
 - The CIFAR-10 dataset in a folder called data in the root directory
+    - https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Run
 
