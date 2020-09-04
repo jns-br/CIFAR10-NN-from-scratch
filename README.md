@@ -11,5 +11,5 @@ Uses the CIFAR-10 dataset for image classification
     - https://www.cs.toronto.edu/~kriz/cifar.html
 
 ### Run
-
-- python3 cifar10-nn.py
+```python
+python3 cifar10-nn.py
